@@ -10,5 +10,6 @@ public class Main {
         System.out.println("a+b = "+ (a+b));
         System.out.println("FOR GIT PRACTICE");
         System.out.println("코드를 더 좋게 수정하였습니다");
+        System.out.println("안녕하세요");
     }
 }
